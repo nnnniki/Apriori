@@ -1,0 +1,2 @@
+# Apriori
+1. Find the top 30 most frequently purchased items of all users from the transaction details of the e-commerce platform 2. Complete the frequent item matrix tree diagram 3. According to the apriori algorithm, conduct a certain degree of mining on the degree of association/rule between commodities 4. Analyze which products can be purchased together, and calculate the degree of support between the product combinations
